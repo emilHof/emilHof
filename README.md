@@ -11,5 +11,5 @@
 
 - 📫 How to reach me **hofsteek@dukes.jmu.edu**
 
-- ⚡ Fun fact **When I'm not being a script kiddie, I pursue my cooking passion**
+- ⚡ Fun fact **When I'm not coding away, I pursue my cooking passion**
 
