@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Northrop Grumman's Buoy Mesh Network](https://github.com/emilHof/ng-mesh-buoy)
 
-- 🌱 I’m currently learning **Go & AWS**
+- 🌱 I’m currently learning **Rust & AWS**
 
 - 👨‍💻 All of my projects are available at [https://emilhofstetter.dev/](https://emilhofstetter.dev/)
 
-- 💬 Ask me about **Go :D**
+- 💬 Ask me about **Rust :D**
 
 - 📫 How to reach me **hofsteek@dukes.jmu.edu**
 
