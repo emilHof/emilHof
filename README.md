@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emil</h1>
 <h3 align="center">An aspiring Software Engineer</h3>
-<img class="img" src="https://github-readme-stats.vercel.app/api?username=emilHof&hide=["stars"]&show_icons=true" style="width: 60%;"/>
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilHof&hide=["stars"]&show_icons=true" style="width: 60%"/>
+<img class="img" src="https://github-readme-stats.vercel.app/api?username=emilHof&hide=["stars"]&show_icons=true" style="width: 100%;"/>
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilHof&hide=["stars"]&show_icons=true" style="width: 100%"/>
 
 
 - 🌱 I’m currently learning **Rust & AWS**
